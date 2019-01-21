@@ -4,6 +4,6 @@
 
 Inspired by how tony stark navigate through jarvis by using hand motion. With your hand less restricted, you can be more fluid and expressive while delivering your point. 
 
-###How it works!
+### How It Works!
 
 it's pretty simple! Detect the object with selected color and find the densest object by filtering etc. Then pin point the center of the selected object. For navigating, place the object near your face then move the object left or right to navigate the desktop. I choose this method because it's looks more natural to put your hands or object near your face then navigate while doing presentation. Let me hear your opinion about it, i would love to have some opinion about others movement pattern that more appropriate!
